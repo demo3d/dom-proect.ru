@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Album>
+    <Header>
+        <Application Name="GLC_Player" Version="2.1"/>
+    </Header>
+    <Root>
+        <Model AFileName="C:/ga/v/src/3d/stat1\athenass\athenass.obj" RFileName="athenass/athenass.obj">
+            <Camera Angle="35">
+                <Eye x="2.10803" y="23.3148" z="82.6557"/>
+                <Target x="-0.789063" y="-7.96903" z="-8.05633"/>
+                <Up x="-0.00227127" y="0.94538" z="-0.325961"/>
+                <DefaultUp x="0" y="0" z="1"/>
+            </Camera>
+            <Materials size="0"/>
+            <InvisibleInstances size="0"/>
+            <Shaders size="0"/>
+        </Model>
+    </Root>
+</Album>
